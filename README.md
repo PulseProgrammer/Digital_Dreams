@@ -3,6 +3,7 @@ Envisioning Art, Music, and Textual Worlds with AI
 
 This repository contains the "Digital Dreams" project, aimed at creating a generative AI system for producing Lo-fi Trap melodies. The project empowers individuals without melody instrument skills to create their own melodies and serves as a source of inspiration for music producers.
 
+Do checkout some exciting outputs here: https://tinyurl.com/kej8p932
 
 ## Overview
 
